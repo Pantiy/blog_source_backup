@@ -134,7 +134,7 @@ public class MainActivity extends AppCompatActivity {
 
 **4. 最后**
 
-本篇文章主要讲解的是 DrawerLayout 及 ActionBarDrawerToggle 的使用，二者配合使用可以快速实现清纯不做作的抽屉效果。使用并不困难，但是一些细节需要注意，如 xml 文件参数的设定、Activity 代码中相应方法的调用。
+本篇文章主要讲解的是 DrawerLayout 及 ActionBarDrawerToggle 的使用，二者配合使用可以快速实现抽屉效果。使用并不困难，但是一些细节需要注意，如 xml 文件参数的设定、Activity 代码中相应方法的调用。
 
 --------------------------
 
